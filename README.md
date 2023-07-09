@@ -7,7 +7,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pushkarnimkar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pushkarnim/)
-[![Twitter URL](https://img.shields.io/twitter/url?label=pushkarim&style=social&url=https%3A%2F%2Ftwitter.com%2Fpawelsb)](https://twitter.com/pushkarnim)
+[![Twitter URL](https://img.shields.io/twitter/url?label=pushkarnim&style=social&url=https%3A%2F%2Ftwitter.com%2Fpawelsb)](https://twitter.com/pushkarnim)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pushkarnim@gmail.com)
 
 
