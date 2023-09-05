@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi! <img width="10%" height="10%" align="left" alt="Github" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/wave.gif" /> Welcome to Pushkar's GitHub!
+## Hi! Welcome to Pushkar's GitHub!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
